@@ -1,3 +1,3 @@
-### 🏦  Charles Richardsons' Software Development Vault 🏦 
+### 🏦 Charles Richardsons' Software Systems 🏦 
 
-*Currently falling in love with the game* 🫶🏼
+*Ideate, Execute, Present, Pivot*
