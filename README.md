@@ -1,12 +1,12 @@
 <table border="0">
 <tr>
-<td valign="top" width="55%">
+<td valign="top" align="center" width="55%">
       
  ### 🏦 Charles Richardsons' Software Systems 🏦 
 
-<a href="https://stackoverflow.com/users/14193416/c-rich"><img src="https://stackoverflow.com/users/flair/14193416.png" alt="profile for C RICH at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for C RICH at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/14193416/c-rich"><img src="https://stackoverflow.com/users/flair/14193416.png?theme=dark" alt="profile for C RICH at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for C RICH at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-*Ideate, Execute, Present, Pivot*
+
 
  
 </td>
