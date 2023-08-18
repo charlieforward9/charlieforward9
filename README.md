@@ -1,6 +1,6 @@
 <table border="0">
 <tr>
-<td valign="top" align="center" width="100%">
+<td valign="top" align="center" width="50%">
       
  ### Z5
 
@@ -10,7 +10,7 @@
 
  
 </td>
-<td valign="center" width="60%">
+<td valign="center" width="50%">
   
 ![Charles's Github Stats](https://github-readme-stats.vercel.app/api?username=charlieforward9&hide_title=true&hide_rank=true&count_private=true&theme=radical&show_icons=true&hide=stars&include_all_commits=true)
 
